@@ -1,10 +1,10 @@
 {
     "compilerOptions": {
-        "allowJs": true,
-        "checkJs": true,
-        "outDir": "build",
-        "target": "esnext",
-        "noEmit": true
+        "allowJs": true, // allow js files to be compiled
+        "checkJs": true, // check js files for errors
+        "outDir": "build", // output directory for compiled files
+        "target": "esnext", // target version of js esnext is the latest version of js
+        "noEmit": true // do not emit compiled files means do not create compiled files
     },
-    "include": ["src/**/*"]
+    "include": ["src/**/*"] // inside src folder, any subfolder, any file
 }
