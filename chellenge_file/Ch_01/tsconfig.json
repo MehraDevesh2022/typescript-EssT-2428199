@@ -1,0 +1,9 @@
+{
+
+    "comiplerOptions" :{
+        "outDir": "build",
+        "target": "esnext",
+        
+    },
+    "include": ["src/**/*"]
+}

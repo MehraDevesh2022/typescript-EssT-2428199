@@ -1,8 +1,10 @@
 {
     "compilerOptions": {
-        "outDir": "build",
-        "target": "esnext",
-        "noEmit": false // set to false to create compiled files in build folder 
+        "outDir" : "build",
+        "target" : "esnext",
+        
+        
+        
     },
-    "include": ["src/**/*"]
+    "include" : ["src/**/*"]
 }
